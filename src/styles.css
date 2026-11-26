@@ -1,1 +1,42 @@
 /* You can add global styles to this file, and also import other style files */
+:root {
+  --blue: #1a3fe0;
+  --blue-2: #3b6bff;
+  --navy: #0a1233;
+  --navy-2: #101c4d;
+  --ink: #0f1738;
+  --muted: #5b6488;
+  --bg: #f5f7ff;
+  --line: #e1e6fa;
+  --radius: 18px;
+}
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 76px;
+}
+body {
+  font-family: 'Inter', system-ui, sans-serif;
+  color: var(--ink);
+  background: #fff;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: 'Sora', 'Inter', sans-serif;
+  line-height: 1.15;
+}
+img {
+  max-width: 100%;
+  display: block;
+}
+a {
+  color: inherit;
+}

@@ -10,5 +10,5 @@ HForge conçoit des solutions numériques et technologiques sur mesure. Ce site 
 
 - Page d'accueil avec proposition de valeur
 - Présentation des services et solutions technologiques
-- Section à propos / identité de la startup
+- Section à propos / identité de la startup Hforge
 - Formulaire ou liens de contact

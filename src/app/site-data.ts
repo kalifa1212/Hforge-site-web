@@ -10,10 +10,10 @@ export const SITE = {
   // ⚠️ À remplacer par vos vraies coordonnées
   contact: {
     email: 'contact@hforge.cm',
-    phone: '+237 6XX XX XX XX',
-    whatsapp: 'https://wa.me/2376XXXXXXXX',
+    phone: '+237 674 93 37 13',
+    whatsapp: 'https://wa.me/237674933713',
     linkedin: 'https://www.linkedin.com/',
-    github: 'https://github.com/',
+    github: 'https://github.com/kalifa1212',
   },
 };
 
@@ -73,11 +73,22 @@ export const NETWORK_SERVICES: Service[] = [
 ];
 
 export const STACK = [
-  'Java', 'Spring Boot', 'REST API', 'Angular', 'Mobile', 'Docker', 'SQL', 'Réseaux', 'DevOps',
+  'Java',
+  'Spring Boot',
+  'REST API',
+  'Angular',
+  'Mobile',
+  'Docker',
+  'SQL',
+  'Réseaux',
+  'DevOps',
 ];
 
 export const VALUES = [
   { title: 'Excellence', text: 'Un code propre, des architectures solides, un travail soigné.' },
-  { title: 'Transmission', text: 'Partager le savoir pour faire grandir toute la communauté tech.' },
+  {
+    title: 'Transmission',
+    text: 'Partager le savoir pour faire grandir toute la communauté tech.',
+  },
   { title: 'Collaboration', text: 'Avancer ensemble : clients, équipes et talents locaux.' },
 ];
